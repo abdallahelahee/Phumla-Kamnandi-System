@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|c:\\users\\elhabd002\\desktop\\group38_inf2011s_group_project_2025\\group38_inf2011s_group_project_2025(mateo)\\group38_inf2011s_group_project_2025\\database\\bookingda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|solutionrelative:group38_inf2011s_group_project_2025\\database\\bookingda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|c:\\users\\elhabd002\\desktop\\group38_inf2011s_group_project_2025\\group38_inf2011s_group_project_2025(mateo)\\group38_inf2011s_group_project_2025\\business\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|solutionrelative:group38_inf2011s_group_project_2025\\business\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|c:\\users\\elhabd002\\desktop\\group38_inf2011s_group_project_2025\\group38_inf2011s_group_project_2025(mateo)\\group38_inf2011s_group_project_2025\\presentation\\reportsus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BFC27A-6449-4A9A-A376-8B5AFF717A81}|Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025.csproj|solutionrelative:group38_inf2011s_group_project_2025\\presentation\\reportsus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDA.cs",
+              "DocumentMoniker": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Database\\BookingDA.cs",
+              "RelativeDocumentMoniker": "Group38_INF2011S_Group_Project_2025\\Database\\BookingDA.cs",
+              "ToolTip": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Database\\BookingDA.cs",
+              "RelativeToolTip": "Group38_INF2011S_Group_Project_2025\\Database\\BookingDA.cs",
+              "ViewState": "AgIAAG4AAACAY2ZmZqYuwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:41:43.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Business\\BookingController.cs",
+              "RelativeDocumentMoniker": "Group38_INF2011S_Group_Project_2025\\Business\\BookingController.cs",
+              "ToolTip": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Business\\BookingController.cs",
+              "RelativeToolTip": "Group38_INF2011S_Group_Project_2025\\Business\\BookingController.cs",
+              "ViewState": "AgIAAJIAAAAABgAAAAAcwKYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:12:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsUS.cs",
+              "DocumentMoniker": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Presentation\\ReportsUS.cs",
+              "RelativeDocumentMoniker": "Group38_INF2011S_Group_Project_2025\\Presentation\\ReportsUS.cs",
+              "ToolTip": "C:\\Users\\ELHABD002\\Desktop\\Group38_INF2011S_Group_Project_2025\\Group38_INF2011S_Group_Project_2025(MATEO)\\Group38_INF2011S_Group_Project_2025\\Presentation\\ReportsUS.cs",
+              "RelativeToolTip": "Group38_INF2011S_Group_Project_2025\\Presentation\\ReportsUS.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAwGsBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:10:46.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
